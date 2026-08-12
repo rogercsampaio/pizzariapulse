@@ -9,7 +9,7 @@ from code.logger_config import setup_logs_once
 # CONFIGURAÇÃO DA PÁGINA (DEVE SER A PRIMEIRA CHAMADA STREAMLIT)
 # ----------------------------------------------------------------------
 st.set_page_config(
-    page_title="Pizzaria Bella Italia",
+    page_title="PizzariaPulse",
     page_icon="🍕",
     layout="wide",
 )
