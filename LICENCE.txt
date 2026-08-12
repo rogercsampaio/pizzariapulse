@@ -1,0 +1,23 @@
+TERMOS DE USO E LICENÇA DE PROPRIEDADE INTELECTUAL
+
+Copyright (c) 2026 Roger Sampaio (www.rogersampaio.com). Todos os direitos reservados.
+
+O aplicativo "PizzaPulse" e todo o seu código-fonte, arquitetura, design e documentação associados são de propriedade exclusiva do desenvolvedor Roger Sampaio. Este projeto foi desenvolvido estritamente para fins de portfólio acadêmico, demonstração técnica e estudos individuais.
+
+Por meio desta licença, as seguintes condições de uso são estabelecidas:
+
+1. PERMISSÕES:
+   * É permitido visualizar, clonar e baixar o código-fonte para fins de estudo individual, revisão de portfólio, avaliação técnica e aprendizado acadêmico.
+
+2. RESTRIÇÕES EXPLICITAS:
+   * É estritamente PROIBIDA a utilização, reprodução, modificação, distribuição ou redistribuição deste código-fonte (total ou parcial) para fins comerciais, lucrativos ou empresariais.
+   * É estritamente PROIBIDA a publicação ou hospedagem pública deste sistema sob a autoria de terceiros.
+
+3. ATRIBUIÇÃO DE CRÉDITO (CITAÇÃO):
+   * Caso trechos conceituais da arquitetura ou do código sejam utilizados para fins de estudo/artigos acadêmicos, o devido crédito deve ser explicitamente concedido ao autor original, citando o nome "Roger Sampaio" e o link do repositório original ou site oficial (www.rogersampaio.com).
+
+4. AUSÊNCIA DE GARANTIAS:
+   * O software é fornecido "no estado em que se encontra" (AS IS), sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de funcionamento para uma finalidade específica. Inseta-se o autor de qualquer responsabilidade por danos diretos ou indiretos decorrentes do uso deste software.
+
+Brasília - DF, Brasil.
+Contato: rogersampaioo@gmail.com | LinkedIn: https://www.linkedin.com/in/roger-csampaio/

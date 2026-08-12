@@ -1,0 +1,21 @@
+# ambiente python 3.13 
+pandas==3.0.5
+matplotlib==3.11.1
+seaborn==0.13.2
+tqdm==4.69.0
+requests==2.34.2
+validate-docbr==2.0.0
+phonenumbers==9.0.35
+streamlit==1.60.0
+loguru==1.2.0
+email-validator==2.3.0
+deep-translator==1.11.4
+#langchain
+#langchain-google-genai
+
+langchain-classic==1.0.8
+plotly==6.9.0
+#langchain langchain-google-genai google-generativeai
+#langchain langchain-community langchain-core langchain-google-genai
+#gradio
+#streamlit
